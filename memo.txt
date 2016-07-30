@@ -27,3 +27,7 @@ URL 붙여넣기 확인 그리고 저장할때 푸시로 저장 풀로 내려놓
 Unstaged file => Working copy
 Unstaged file 에있는 파일을 체크하는것 = add
 staged file => index,staging area
+커밋할경우 staged file 에 있는 파일만 저장되고 이저장된 순서를 보여주는걸 저장소라 함
+
+
+커밋하지 않는다면 파일변경사항은 저장하지 않는다.
