@@ -1,0 +1,14 @@
+sourceTree 사용방법
+
+파일 저장할 폴더 생성후 파일 생성
+
+source tree 에서 아래 + 버튼
+ create new repository destination path를 만든 폴더로 지정
+
+ 폴더안에서 문서작업 저장
+
+새로 생긴 문서를 선택후 stage Selected선택 후 commit 선택
+
+아래에 만든 내용이나 수정사항 적은후 commit 버튼
+
+이후 log/history에서 수정되는 내용 파악후 지속적인 버전 업그레이드나 저장완료가능
