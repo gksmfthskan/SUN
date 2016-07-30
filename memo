@@ -14,9 +14,11 @@ source tree 에서 아래 + 버튼
 이후 log/history에서 수정되는 내용 파악후 지속적인 버전 업그레이드나 저장완료가능
 
 
-
-
 git hub 사용방법 깃허브 아이디로 들어간후 오른쪽 맨위 아이콘 누른뒤
 your project 들어간뒤 clone or download 그리고 저장url복사
 그리고 sourcetree에서 저장소->원격저장소 추가 원격이름 default 원격
 URL 붙여넣기 확인 그리고 저장할때 푸시로 저장 풀로 내려놓음
+
+
+
+커밋하지 않는다면 파일변경사항은 저장하지 않는다.
