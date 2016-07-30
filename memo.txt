@@ -33,8 +33,5 @@ ex)
       <li>외부도구.master</li>
       <li>스테시</li>
       <li>test</li>
-=======                           = 분기점
+=======                           =분기점
 >>>>>>> 실험2                    <- 실험2로 커밋했을시 일어나는 일
-
-위 사항에따라 필요한대로 작업후 head,=,실험2 부분 제거후
-Resolve Conflicts -> Marked Resolved 선택
