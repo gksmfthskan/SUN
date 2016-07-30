@@ -19,7 +19,6 @@ your project 들어간뒤 clone or download 그리고 저장url복사
 그리고 sourcetree에서 저장소->원격저장소 추가 원격이름 default 원격
 URL 붙여넣기 확인 그리고 저장할때 푸시로 저장 풀로 내려놓음
 
-testsadawe
 
 
 커밋하지 않는다면 파일변경사항은 저장하지 않는다.
