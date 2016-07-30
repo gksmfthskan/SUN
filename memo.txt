@@ -19,16 +19,7 @@ your project 들어간뒤 clone or download 그리고 저장url복사
 그리고 sourcetree에서 저장소->원격저장소 추가 원격이름 default 원격
 URL 붙여넣기 확인 그리고 저장할때 푸시로 저장 풀로 내려놓음
 
-
-
 커밋하지 않는다면 파일변경사항은 저장하지 않는다.
 
-
-Unstaged file => Working copy
-Unstaged file 에있는 파일을 체크하는것 = add
-staged file => index,staging area
-커밋할경우 staged file 에 있는 파일만 저장되고 이저장된 순서를 보여주는걸 저장소라 함
-
-
-
-커밋하지 않는다면 파일변경사항은 저장하지 않는다.
+reverse 는 버전 삭제
+revert는 버전을 되돌리기만함
