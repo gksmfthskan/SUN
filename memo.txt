@@ -38,3 +38,6 @@ ex)
 
 위 사항에따라 필요한대로 작업후 head,=,실험2 부분 제거후
 Resolve Conflicts -> Marked Resolved 선택
+
+협업하기
+원격저장소의 http를 복사하여 Clone Repository URL에 복사하고 폴더 선택후 완료
