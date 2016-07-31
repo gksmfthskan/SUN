@@ -41,3 +41,8 @@ Resolve Conflicts -> Marked Resolved 선택
 
 협업하기
 원격저장소의 http를 복사하여 Clone Repository URL에 복사하고 폴더 선택후 완료
+
+diff = 파일과 파일의 차이점을 비교해주는 역활을하는 소프트웨어
+        (Beyoune Compare(유로)) 설치후 기존에 열려있던 sourcetree 종료
+        다음 옵션->diff -> External diff 에서 tool선택후 확인
+        원하는 위치의 파일 선택후 external diff 선택
